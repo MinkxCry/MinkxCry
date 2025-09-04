@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning to program in a vocational training course.<br>📫 How to reach me lmontes.grande@outlook.es<br>⚡ Fun fact: I think I am funny
+🌱 I'm currently working as a junior programmer.<br>📫 How to reach me lmontes.grande@outlook.es<br>⚡ Fun fact: I think I am funny
 
 
 # 💻 Tech Stack:
